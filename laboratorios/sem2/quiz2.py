@@ -1,0 +1,2 @@
+NOMBRE = "JOSE"
+PRINT("HOLA, " + NOMBRE)
