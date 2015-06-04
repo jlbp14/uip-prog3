@@ -1,2 +1,2 @@
-NOMBRE = "JOSE"
-PRINT("HOLA, " + NOMBRE)
+nombre = "JOSE"
+print("HOLA, " + nombre)
